@@ -1,0 +1,144 @@
+{
+  "navigation": {
+    "home": "Home",
+    "whatWeSeek": "What We Seek",
+    "weNeedYou": "We Need You",
+    "merchandising": "Merchandise",
+    "workshops": "Workshops",
+    "mission": "Mission",
+    "team": "Team",
+    "businessModel": "Business Model",
+    "switchLocale": "Español"
+  },
+  "hero": {
+    "title": "Ecologicamentes",
+    "subtitle": "Solving global problems with local solutions. Action, wisdom, real change.",
+    "cta": "Join Us"
+  },
+  "whatWeSeek": {
+    "title": "What We Seek",
+    "description": "Our organization is focused on creating sustainable solutions to environmental challenges through community engagement and education.",
+    "items": [
+      {
+        "title": "Environmental Conservation",
+        "description": "Protecting natural habitats and biodiversity through community-led initiatives."
+      },
+      {
+        "title": "Sustainable Practices",
+        "description": "Promoting eco-friendly lifestyles and business practices that reduce environmental impact."
+      },
+      {
+        "title": "Education & Awareness",
+        "description": "Raising awareness about environmental issues and empowering communities with knowledge."
+      }
+    ]
+  },
+  "weNeedYou": {
+    "title": "We Need You",
+    "description": "Join our community of environmental advocates and make a real difference. Your skills, passion, and time can contribute to creating a more sustainable future.",
+    "cta": "Volunteer Now"
+  },
+  "merchandising": {
+    "title": "Merchandise",
+    "description": "Support our cause by purchasing our eco-friendly merchandise. All proceeds go directly to funding our environmental projects.",
+    "products": [
+      {
+        "name": "Organic Cotton T-shirt",
+        "description": "Made from 100% organic cotton with eco-friendly dyes.",
+        "price": "$25"
+      },
+      {
+        "name": "Reusable Water Bottle",
+        "description": "Stainless steel bottle that keeps drinks cold for 24 hours or hot for 12 hours.",
+        "price": "$20"
+      },
+      {
+        "name": "Tote Bag",
+        "description": "Durable canvas tote bag with our logo, perfect for shopping.",
+        "price": "$15"
+      }
+    ]
+  },
+  "workshops": {
+    "title": "Workshops",
+    "description": "Participate in our educational workshops to learn practical skills for sustainable living.",
+    "items": [
+      {
+        "title": "Urban Gardening",
+        "description": "Learn how to grow your own food in limited spaces.",
+        "date": "Every first Saturday of the month"
+      },
+      {
+        "title": "Zero Waste Living",
+        "description": "Practical tips to reduce waste in your daily life.",
+        "date": "Every third Sunday of the month"
+      },
+      {
+        "title": "Renewable Energy Basics",
+        "description": "Understanding renewable energy options for your home.",
+        "date": "Quarterly workshops"
+      }
+    ]
+  },
+  "mission": {
+    "title": "Our Mission",
+    "description": "At Ecologicamentes, we are committed to creating a sustainable future through local action and global thinking.",
+    "values": [
+      {
+        "title": "Community Empowerment",
+        "description": "We believe in empowering communities to take charge of their environmental future."
+      },
+      {
+        "title": "Sustainable Innovation",
+        "description": "We promote innovative solutions that balance environmental protection with human needs."
+      },
+      {
+        "title": "Inclusive Environmentalism",
+        "description": "We ensure that environmental benefits and responsibilities are shared equitably."
+      }
+    ]
+  },
+  "team": {
+    "title": "Our Team",
+    "description": "Meet the dedicated individuals behind Ecologicamentes.",
+    "members": [
+      {
+        "name": "Maria Rodriguez",
+        "role": "Founder & Executive Director",
+        "bio": "With over 15 years of experience in environmental advocacy, Maria founded Ecologicamentes to bridge the gap between global environmental challenges and local solutions."
+      },
+      {
+        "name": "Carlos Mendez",
+        "role": "Education Coordinator",
+        "bio": "Carlos develops and implements our educational programs, bringing his background in environmental education to inspire the next generation of environmental stewards."
+      },
+      {
+        "name": "Sofia Blanco",
+        "role": "Community Outreach Manager",
+        "bio": "Sofia works directly with communities to understand their environmental needs and develop tailored programs that address local challenges."
+      }
+    ]
+  },
+  "businessModel": {
+    "title": "Our Business Model",
+    "description": "Ecologicamentes operates on a sustainable business model that ensures our environmental impact is positive while maintaining financial stability.",
+    "steps": [
+      {
+        "title": "Social Enterprise",
+        "description": "We generate revenue through our merchandise and workshops, reinvesting profits into our environmental projects."
+      },
+      {
+        "title": "Grants & Partnerships",
+        "description": "We collaborate with like-minded organizations and secure grants to fund larger initiatives."
+      },
+      {
+        "title": "Community Investment",
+        "description": "We create opportunities for community members to invest in local environmental projects with measurable returns."
+      }
+    ]
+  },
+  "footer": {
+    "rights": "© 2023 Ecologicamentes. All rights reserved.",
+    "contact": "Contact Us"
+  }
+}

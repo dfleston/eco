@@ -1,0 +1,144 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "whatWeSeek": "Qué Buscamos",
+    "weNeedYou": "Te Necesitamos",
+    "merchandising": "Productos",
+    "workshops": "Talleres",
+    "mission": "Misión",
+    "team": "Equipo",
+    "businessModel": "Modelo de Negocio",
+    "switchLocale": "English"
+  },
+  "hero": {
+    "title": "Ecologicamentes",
+    "subtitle": "Resolviendo problemas globales con soluciones locales. Acción, sabiduría, cambio real.",
+    "cta": "Únete a Nosotros"
+  },
+  "whatWeSeek": {
+    "title": "Qué Buscamos",
+    "description": "Nuestra organización está enfocada en crear soluciones sostenibles para los desafíos ambientales a través de la participación comunitaria y la educación.",
+    "items": [
+      {
+        "title": "Conservación Ambiental",
+        "description": "Proteger hábitats naturales y biodiversidad a través de iniciativas lideradas por la comunidad."
+      },
+      {
+        "title": "Prácticas Sostenibles",
+        "description": "Promover estilos de vida y prácticas empresariales ecológicas que reduzcan el impacto ambiental."
+      },
+      {
+        "title": "Educación y Conciencia",
+        "description": "Crear conciencia sobre problemas ambientales y empoderar a las comunidades con conocimiento."
+      }
+    ]
+  },
+  "weNeedYou": {
+    "title": "Te Necesitamos",
+    "description": "Únete a nuestra comunidad de defensores del medio ambiente y marca una diferencia real. Tus habilidades, pasión y tiempo pueden contribuir a crear un futuro más sostenible.",
+    "cta": "Voluntario Ahora"
+  },
+  "merchandising": {
+    "title": "Productos",
+    "description": "Apoya nuestra causa comprando nuestros productos ecológicos. Todos los ingresos van directamente a financiar nuestros proyectos ambientales.",
+    "products": [
+      {
+        "name": "Camiseta de Algodón Orgánico",
+        "description": "Hecha de 100% algodón orgánico con tintes ecológicos.",
+        "price": "€22"
+      },
+      {
+        "name": "Botella de Agua Reutilizable",
+        "description": "Botella de acero inoxidable que mantiene las bebidas frías durante 24 horas o calientes durante 12 horas.",
+        "price": "€18"
+      },
+      {
+        "name": "Bolsa de Tela",
+        "description": "Bolsa de lona duradera con nuestro logo, perfecta para compras.",
+        "price": "€13"
+      }
+    ]
+  },
+  "workshops": {
+    "title": "Talleres",
+    "description": "Participa en nuestros talleres educativos para aprender habilidades prácticas para una vida sostenible.",
+    "items": [
+      {
+        "title": "Jardinería Urbana",
+        "description": "Aprende a cultivar tus propios alimentos en espacios limitados.",
+        "date": "Cada primer sábado del mes"
+      },
+      {
+        "title": "Vida Sin Residuos",
+        "description": "Consejos prácticos para reducir residuos en tu vida diaria.",
+        "date": "Cada tercer domingo del mes"
+      },
+      {
+        "title": "Fundamentos de Energía Renovable",
+        "description": "Entendiendo las opciones de energía renovable para tu hogar.",
+        "date": "Talleres trimestrales"
+      }
+    ]
+  },
+  "mission": {
+    "title": "Nuestra Misión",
+    "description": "En Ecologicamentes, estamos comprometidos a crear un futuro sostenible a través de la acción local y el pensamiento global.",
+    "values": [
+      {
+        "title": "Empoderamiento Comunitario",
+        "description": "Creemos en empoderar a las comunidades para que se hagan cargo de su futuro ambiental."
+      },
+      {
+        "title": "Innovación Sostenible",
+        "description": "Promovemos soluciones innovadoras que equilibran la protección ambiental con las necesidades humanas."
+      },
+      {
+        "title": "Ambientalismo Inclusivo",
+        "description": "Nos aseguramos de que los beneficios y responsabilidades ambientales se compartan equitativamente."
+      }
+    ]
+  },
+  "team": {
+    "title": "Nuestro Equipo",
+    "description": "Conoce a las personas dedicadas detrás de Ecologicamentes.",
+    "members": [
+      {
+        "name": "María Rodríguez",
+        "role": "Fundadora y Directora Ejecutiva",
+        "bio": "Con más de 15 años de experiencia en defensa ambiental, María fundó Ecologicamentes para cerrar la brecha entre los desafíos ambientales globales y las soluciones locales."
+      },
+      {
+        "name": "Carlos Méndez",
+        "role": "Coordinador de Educación",
+        "bio": "Carlos desarrolla e implementa nuestros programas educativos, aportando su experiencia en educación ambiental para inspirar a la próxima generación de administradores ambientales."
+      },
+      {
+        "name": "Sofía Blanco",
+        "role": "Gerente de Alcance Comunitario",
+        "bio": "Sofía trabaja directamente con las comunidades para entender sus necesidades ambientales y desarrollar programas adaptados que aborden los desafíos locales."
+      }
+    ]
+  },
+  "businessModel": {
+    "title": "Nuestro Modelo de Negocio",
+    "description": "Ecologicamentes opera con un modelo de negocio sostenible que asegura que nuestro impacto ambiental sea positivo mientras mantenemos la estabilidad financiera.",
+    "steps": [
+      {
+        "title": "Empresa Social",
+        "description": "Generamos ingresos a través de nuestros productos y talleres, reinvirtiendo las ganancias en nuestros proyectos ambientales."
+      },
+      {
+        "title": "Subvenciones y Asociaciones",
+        "description": "Colaboramos con organizaciones afines y aseguramos subvenciones para financiar iniciativas más grandes."
+      },
+      {
+        "title": "Inversión Comunitaria",
+        "description": "Creamos oportunidades para que los miembros de la comunidad inviertan en proyectos ambientales locales con retornos medibles."
+      }
+    ]
+  },
+  "footer": {
+    "rights": "© 2023 Ecologicamentes. Todos los derechos reservados.",
+    "contact": "Contáctanos"
+  }
+}
